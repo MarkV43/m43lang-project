@@ -1,0 +1,6 @@
+[submodule "m43lang"]
+	path = m43lang
+	url = https://github.com/MarkV43/m43lang.git
+[submodule "M43LangWeb"]
+	path = M43LangWeb
+	url = https://github.com/MarkV43/M43LangWeb.git
