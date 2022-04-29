@@ -2,12 +2,12 @@
 	path = m43lang
 	url = https://github.com/MarkV43/m43lang.git
 [submodule "m43lang-web"]
-	path = m43lang-web
-	url = https://github.com/MarkV43/M43LangWeb.git
+	path = web
+	url = https://github.com/MarkV43/m43lang-web.git
 [submodule "m43lang-wasm"]
-	path = m43lang-wasm
+	path = wasm
 	url = https://github.com/MarkV43/m43lang-wasm.git
 [submodule "m43lang-server"]
-	path = m43lang-server
+	path = server
 	url = https://github.com/MarkV43/m43lang-server.git
 
